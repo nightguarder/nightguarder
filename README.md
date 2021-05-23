@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nightguarder I´m a Computer Science student.
 - 👀 I’m interested in programming, learning, Photography, video editing, Traveling...
-- 🌱 I’m currently learning C#, JavaScript and SQL Database.
+- 🌱 I’m currently learning C#, JavaScript and SQL Database. In my free time I like to create webpages.
 - 📫 How to reach me: nigthguarder@gmail.com or on social media.
 - 📢 Twitter: https://twitter.com/Nigthguarder Instagram: https://www.instagram.com/cyril.steger/ 
 - 🎬 Youtube: https://www.youtube.com/user/cyrilsteger/
