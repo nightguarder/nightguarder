@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nightguarder I´m a Computer Science student.
+- 👋 Hi, I’m @nightguarder a Computer Science student.
 - 👀 I’m interested in programming, learning, Photography, video editing, Traveling...
 - 🌱 I’m currently learning C#, JavaScript and SQL Database. In my free time I like to create webpages.
 - 📫 How to reach me: nigthguarder@gmail.com or on social media -->
