@@ -3,5 +3,5 @@
 - 👀 I’m interested in programming, learning, Photography, video editing, Traveling...
 - 🌱 I’m currently learning C#, JavaScript and SQL Database. In my free time I like to create webpages.
 - 📫 How to reach me: nigthguarder@gmail.com or on social media -->
-- 📢 Twitter: https://twitter.com/Nigthguarder Instagram: https://www.instagram.com/cyril.steger/ 
+- 📢 Twitter: https://twitter.com/Nigthguarder 
 - 🎬 Youtube: https://www.youtube.com/user/cyrilsteger/
