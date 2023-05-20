@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nightguarder a Computer Science student.
 - 🌐 This is my official portfolio website: [www.cyril.steger.cz](https://cyril-steger.infinityfreeapp.com/?i=1)
 - 👀 I’m interested in programming, learning, photography, video editing, traveling...
-- 🌱 I’m currently learning C, C++ and Game Development. In my free time I like to create webpages.
+- 🌱 I’m currently learning Svelte, React and Backend Development. In my free time I'm open to any physical activity (Run, Bike, Swim).
 - 📫 How to reach me: steger1.cyril@gmail.com or on social media -->
 - 📢 Twitter: https://twitter.com/Nigthguarder 
 - 🎬 Youtube: https://www.youtube.com/user/cyrilsteger/
+- 🏞️ Behance: https://www.behance.net/cyrilsteger
