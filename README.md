@@ -3,6 +3,6 @@
 - 👀 I’m interested in programming, learning, photography, video editing, traveling...
 - 🌱 I’m currently learning Svelte, React and Backend Development. In my free time I'm just doing any physical activity (Run, Bike, Swim).
 - 📫 How to reach me: steger1.cyril@gmail.com or on social media -->
-- 📢 Twitter: *Deleted
+- 📢 Twitter: *Deleted*
 - 🎬 Youtube: https://www.youtube.com/user/cyrilsteger/
 - 🏞️ Behance: https://www.behance.net/cyrilsteger
