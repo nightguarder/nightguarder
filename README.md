@@ -1,7 +1,7 @@
 Cyril Steger Resume
 -
+Welcome! You can stay here or view my: 
 <div>
-  View My Official
   <p align="left">
     <a href="https://cyril-steger.infinityfreeapp.com/?i=1" target="blank"><img align="left"
          src="https://img.shields.io/badge/Personal&nbsp;Website-%23ffffff.svg?style=for-the-badge&logo=googleearth&logoColor=black"
@@ -9,6 +9,7 @@ Cyril Steger Resume
 </p>
 </br>
 </div>
+</br>
 
 <details>
  <summary>About me</summary>
