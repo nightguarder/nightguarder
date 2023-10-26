@@ -2,7 +2,7 @@
 - 🌐 This is my official portfolio website: [www.cyril.steger.cz](https://cyril-steger.infinityfreeapp.com/?i=1)
 - 👀 I’m interested in programming, learning, photography, video editing, traveling...
 - 🌱 I’m currently learning Svelte, React and Backend Development. In my free time I'm just doing any physical activity (Run, Bike, Swim).
-- 📫 How to reach me: steger1.cyril@gmail.com or on social media -->
+- 📫 How to reach me: steger.cyril@gmail.com or on social media -->
 - 📢 Twitter: *Deleted*
 - 🎬 Youtube: https://www.youtube.com/user/cyrilsteger/
 - 🏞️ Behance: https://www.behance.net/cyrilsteger
