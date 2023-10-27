@@ -5,7 +5,7 @@ Welcome! You can stay here or view my:
 <div>
   <p align="left">
     <a href="https://cyril-steger.infinityfreeapp.com/?i=1" target="blank"><img align="left"
-         src="https://img.shields.io/badge/Personal&nbsp;Website-%23ffffff.svg?style=for-the-badge&logo=googleearth&logoColor=black"
+         src="https://img.shields.io/badge/cyril.steger.cz-website-4ACBD6.svg?style=for-the-badge"
          alt="Website link" height="30"/></a>
 </p>
 </br>
@@ -47,22 +47,22 @@ Welcome! You can stay here or view my:
     <h2 align="left">Reach me on:</h2>
     <p align="left">
       <a href="https://mailto:steger.cyril@gmail.com" target="blank"><img align="left"
-         src="https://img.shields.io/badge/mail-%23ffffff.svg?style=for-the-badge&logo=Minutemailer&logoColor=black"
+         src="https://img.shields.io/badge/Gmail-005FF9.svg?style=for-the-badge&logo=Gmail&logoColor=white"
          alt="Mail link" height="30"/></a>
     </p>
     <p align="left">
     <a href="https://www.instagram.com/cyril.steger/" target="blank"><img align="left"
-         src="https://img.shields.io/badge/instagram-%23ffffff.svg?style=for-the-badge&logo=Instagram&logoColor=black"
+         src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=black"
          alt="Instagram link" height="30"/></a>
     </p>
     <p align="left">
     <a href="https://www.youtube.com/user/cyrilsteger" target="blank"><img align="left"
-         src="https://img.shields.io/badge/youtube-%23ffffff.svg?style=for-the-badge&logo=Youtube&logoColor=black"
+         src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=black"
          alt="Youtube link" height="30"/></a>
     </p>
     <p align="left">
     <a href="https://www.behance.net/cyrilsteger" target="blank"><img align="left"
-         src="https://img.shields.io/badge/behance-%23ffffff.svg?style=for-the-badge&logo=Behance&logoColor=black"
+         src="https://img.shields.io/badge/behance-1769FF.svg?style=for-the-badge&logo=Behance&logoColor=black"
          alt="Youtube link" height="30"/></a>
     </p>
     </br>
@@ -72,4 +72,6 @@ Welcome! You can stay here or view my:
 
 Don't hesite to leave me a message for collaboration!
   -
-Have you checked my most recent [repositories?](https://github.com/nightguarder?tab=repositories&q=&type=public&language=&sort=?) 
+  <a href="https://github.com/nightguarder?tab=repositories&q=&type=public&language=&sort=?" target="blank"><img align="left"
+         src="https://img.shields.io/badge/Checkout_my_most_recent_repositories!-20B2AA.svg?style=social&logo=Github&logoColor=black"
+         alt="Github repository" height="30"/></a>
