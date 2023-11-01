@@ -62,7 +62,7 @@ Welcome! You can stay here or view my:
     
   - [ ] ![](https://img.shields.io/badge/SvelteKit-informational?style=flat&logo=svelte&logoColor=black&color=ffffff)
   - [ ] ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=black&color=ffffff)
-  - [ ] ![](https://img.shields.io/badge/NextJs,&nbsp;ExpressJS-informational?style=flat&logo=nextdotjs&logoColor=black&color=ffffff)
+  - [ ] ![](https://img.shields.io/badge/NextJs,&nbsp;ExpressJS,&nbsp;Gatsby-informational?style=flat&logo=nextdotjs&logoColor=black&color=ffffff)
   - [ ] ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=black&color=ffffff) (Backend Development)
   - [ ] ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=FKotlin3&logoColor=purple&color=ffffff)
   - [x] ![](https://img.shields.io/badge/C,C++-informational?style=flat&logo=FKotlin3&logoColor=purple&color=ffffff)
