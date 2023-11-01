@@ -36,8 +36,18 @@ Welcome! You can stay here or view my:
          alt="site link" height="30"/></a>
     </p>
   <p align="left">
+      <a href="https://chat-medic.vercel.app/" target="blank"><img align="left"
+         src="https://img.shields.io/badge/Chat_Medic_SvelteKit-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white"
+         alt="site link" height="30"/></a>
+    </p>
+  <p align="left">
+      <a href="https://age-era.netlify.app" target="blank"><img align="left"
+         src="https://img.shields.io/badge/Age_Era_Gatsby-663399.svg?style=for-the-badge&logo=Gatsby&logoColor=white"
+         alt="site link" height="30"/></a>
+    </p>
+  <p align="left">
       <a href="https://cyril-webapp.infinityfreeapp.com" target="blank"><img align="left"
-         src="https://img.shields.io/badge/PW_Manager_Bootstrap-21759B.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"
+         src="https://img.shields.io/badge/PW_Manager_Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"
          alt="site link" height="30"/></a>
     </p>
   <br>
