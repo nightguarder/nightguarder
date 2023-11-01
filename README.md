@@ -27,6 +27,19 @@ Welcome! You can stay here or view my:
 </details>
 
 <details>
+ <summary>Work</summary>
+<div>
+<h2 align="left">My Showreel</h2>
+   <p align="left">
+      <a href="https://ipf-industry.com" target="blank"><img align="left"
+         src="https://img.shields.io/badge/IPF_Industry-21759B.svg?style=for-the-badge&logo=Wordpress&logoColor=white"
+         alt="site link" height="30"/></a>
+    </p>
+  <br>
+</div>
+</details>
+</details>
+<details>
   <summary>Skills</summary>
   <div>
   <h2 align="left"> I'm currently learning: 📖</h2>
@@ -39,7 +52,7 @@ Welcome! You can stay here or view my:
   - [x] ![](https://img.shields.io/badge/C,C++-informational?style=flat&logo=FKotlin3&logoColor=purple&color=ffffff)
   - [x] ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=blue&color=ffffff) (Frontend Dev)
   - [x] ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=ffffff)
-  <div>
+  </div>
 </details>
 <details open>
   <summary>Contact</summary>
