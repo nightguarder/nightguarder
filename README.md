@@ -65,8 +65,8 @@ Welcome! You can stay here or view my:
   - [ ] ![](https://img.shields.io/badge/NextJs,&nbsp;ExpressJS,&nbsp;Gatsby-informational?style=flat&logo=nextdotjs&logoColor=black&color=ffffff)
   - [ ] ![](https://img.shields.io/badge/Docker,&nbsp;Linode&nbsp;MySQL-informational?style=flat&logo=docker&logoColor=black&color=ffffff) (Backend Development)
   - [ ] ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=FKotlin3&logoColor=purple&color=ffffff)
-  - [x] ![](https://img.shields.io/badge/C,C++-informational?style=flat&logo=FKotlin3&logoColor=purple&color=ffffff)
-  - [x] ![](https://img.shields.io/badge/-CSS,&nbsp;SCSS-informational?style=flat&logo=css3&logoColor=blue&color=ffffff) (Frontend Dev)
+  - [x] ![](https://img.shields.io/badge/C,C++-informational?style=flat&logo=C&logoColor=purple&color=ffffff)
+  - [x] ![](https://img.shields.io/badge/-HTML,&nbsp;CSS,&nbsp;SCSS-informational?style=flat&logo=css3&logoColor=blue&color=ffffff) (Frontend Dev)
   - [x] ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=ffffff)
   </div>
 </details>
