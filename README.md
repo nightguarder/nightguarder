@@ -51,7 +51,7 @@ Welcome! You can stay here or view my:
          alt="site link" height="30"/></a>
     </p>
   <br>
-  <br>
+  </br>
 </div>
 </details>
 </details>
