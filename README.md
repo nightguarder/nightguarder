@@ -60,15 +60,27 @@ Welcome! You can stay here or view my:
   <summary>Skills</summary>
   <div>
   <h2 align="left"> I'm currently learning: 📖</h2>
-    
+
+   **(Frontend Development)**
+
+  - [x] ![](https://img.shields.io/badge/-HTML,&nbsp;CSS,&nbsp;SCSS-informational?style=flat&logo=css3&logoColor=blue&color=ffffff) 
+  - [x] ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=ffffff)
+  - [ ] ![](https://img.shields.io/badge/Thymeleaf-informational?style=flat&logo=Thymeleaf&logoColor=005F0F&color=ffffff)
+
+  **(Backend Development)**
+
   - [ ] ![](https://img.shields.io/badge/SvelteKit-informational?style=flat&logo=svelte&logoColor=black&color=ffffff)
   - [ ] ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=black&color=ffffff)
+  - [ ] ![](https://img.shields.io/badge/Springboot-informational?style=flat&logo=spring&logoColor=6DB33F&color=ffffff)
   - [ ] ![](https://img.shields.io/badge/NextJs,&nbsp;ExpressJS,&nbsp;Gatsby-informational?style=flat&logo=nextdotjs&logoColor=black&color=ffffff)
-  - [ ] ![](https://img.shields.io/badge/Docker,&nbsp;Linode&nbsp;MySQL-informational?style=flat&logo=docker&logoColor=black&color=ffffff) (Backend Development)
-  - [ ] ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=FKotlin3&logoColor=purple&color=ffffff)
+  - [x] ![](https://img.shields.io/badge/Docker,&nbsp;MongoDB,&nbsp;MySQL-informational?style=flat&logo=docker&logoColor=black&color=ffffff) 
+  - [ ] ![](https://img.shields.io/badge/Kotlin,&nbsp;Java-informational?style=flat&logo=Kotlin&logoColor=purple&color=ffffff)
+
+  **(Alternative)**
+
   - [x] ![](https://img.shields.io/badge/C,C++-informational?style=flat&logo=C&logoColor=purple&color=ffffff)
-  - [x] ![](https://img.shields.io/badge/-HTML,&nbsp;CSS,&nbsp;SCSS-informational?style=flat&logo=css3&logoColor=blue&color=ffffff) (Frontend Dev)
-  - [x] ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=ffffff)
+  - [x] ![](https://img.shields.io/badge/Racket-informational?style=flat&logo=Racket&logoColor=9F1D20&color=ffffff)
+
   </div>
 </details>
 
@@ -94,6 +106,11 @@ Welcome! You can stay here or view my:
     <p>
     <a href="https://www.behance.net/cyrilsteger" target="blank"><img align="left"
          src="https://img.shields.io/badge/behance-1769FF.svg?style=for-the-badge&logo=Behance&logoColor=black"
+         alt="Youtube link" height="30"/></a>
+    </p>
+    <p>
+    <a href="https://discord.com/users/461644082389843969" target="blank"><img align="left"
+         src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=black"
          alt="Youtube link" height="30"/></a>
     </p>
     </br>
