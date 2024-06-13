@@ -1,5 +1,5 @@
 
-Cyril Steger Resume
+Cyril Steger Portfolio
 -
 Welcome! You can stay here or view my: 
 <div>
