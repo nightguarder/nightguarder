@@ -29,6 +29,12 @@ Welcome! You can stay here or view my:
 <details>
  <summary>Work</summary>
 <div>
+  <ul>
+    <li>I'm currently working as a frontend developer on an open-source project which is available on GitLab!</li>
+    <li><a href="https://gitlab.com/heytul/ddrapp" target="blank"><img align="left"
+         src="https://img.shields.io/badge/DDRApp - opensource project for data scientists!-20B2AA.svg?style=social&logo=GitLab&logoColor=orange"
+         alt="GitLab repository" height="30"/></a></li>
+  </ul>
 <h2>My Showreel</h2>
    <p>
       <a href="https://ipf-industry.com" target="blank"><img
